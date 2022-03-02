@@ -1,0 +1,19 @@
+.seller__section-title h3 {
+  color: #fff;
+}
+
+.seller__img {
+  width: 80px;
+  height: 80px;
+}
+
+.seller__content h6 {
+  font-size: 1rem;
+  color: #fff;
+}
+
+@media only screen and (max-width: 992px) {
+  .seller__content h6 {
+    font-size: 0.8rem !important;
+  }
+}
