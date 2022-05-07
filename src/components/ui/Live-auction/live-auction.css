@@ -42,7 +42,7 @@
 .creator__info p {
   font-size: 0.9rem;
   color: #fff;
-  opacity: 100%;
+
   margin-bottom: 0;
   font-weight: 500;
 }
@@ -67,8 +67,8 @@
 
 .history__link a {
   text-decoration: none;
-  color: #fff;
-  opacity: 85%;
+  color: rgba(255, 255, 255, 0.772);
+
   font-size: 0.9rem;
 }
 
