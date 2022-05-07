@@ -16,14 +16,13 @@
 
 .list__item a {
   text-decoration: none;
-  color: #fff;
-  opacity: 85%;
+  color: rgba(255, 255, 255, 0.772);
+
   font-size: 0.9rem;
 }
 
 .list__item a:hover {
-  color: #fff;
-  opacity: 85%;
+  color: rgba(255, 255, 255, 0.772);
 }
 
 .newsletter {
@@ -40,15 +39,14 @@
 }
 
 ::placeholder {
-  color: #fff;
-  opacity: 85%;
+  color: rgba(255, 255, 255, 0.772);
 }
 
 .social__links span a {
   text-decoration: none;
 
-  color: #fff;
-  opacity: 85%;
+  color: rgba(255, 255, 255, 0.772);
+
   font-size: 1.2rem;
   font-weight: 400;
   transition: 0.3s;

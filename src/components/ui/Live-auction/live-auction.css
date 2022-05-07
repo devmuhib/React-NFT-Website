@@ -33,8 +33,8 @@
 
 .creator__info h6 {
   font-size: 0.7rem;
-  color: #fff;
-  opacity: 80%;
+  color: rgba(255, 255, 255, 0.772);
+
   margin-bottom: 0;
   font-weight: 300;
 }
