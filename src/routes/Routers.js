@@ -10,6 +10,7 @@ import Contact from "../pages/Contact";
 import Wallet from "../pages/Wallet";
 import NftDetails from "../pages/NftDetails";
 
+
 const Routers = () => {
   return (
     <Routes>
