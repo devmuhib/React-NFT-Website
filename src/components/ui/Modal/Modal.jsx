@@ -15,7 +15,7 @@ const Modal = ({ setShowModal }) => {
         </p>
 
         <div className="input__item mb-4">
-          <input type="number" placeholder="00 : 00 ETH" />
+          <input type="number" placeholder="90 ETH" />
         </div>
 
         <div className="input__item mb-3">
