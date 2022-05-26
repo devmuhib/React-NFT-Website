@@ -62,6 +62,8 @@ const COMPANY = [
   },
 ];
 
+const date = new Date();
+
 const Footer = () => {
   return (
     <footer className="footer">
@@ -151,7 +153,7 @@ const Footer = () => {
           <Col lg="12" className=" mt-4 text-center">
             <p className="copyright">
               {" "}
-              Copyrights 2022, NFT MarketPlace
+              Copyrights {date.getFullYear()}, NFT MarketPlace.
               All Rights Reserved.{" "}
             </p>
           </Col>
