@@ -1,14 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
-
+@import url('https://fonts.cdnfonts.com/css/sofia-pro');
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Sofia Pro", sans-serif;
 }
 
 body {
   background: #14141f !important;
-  font-family: "Roboto", sans-serif;
+  font-family: "Sofia Pro", sans-serif;
 }
 
 h1,
@@ -56,4 +57,18 @@ footer {
 ::-webkit-scrollbar-thumb {
   border-radius: 2em;
   background: linear-gradient(-45deg, #e250e5, #4b50e6, #e250e5, #4b50e6);
+}
+
+
+/* ========== Global Styling for Input[type=number] =========== */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
 }

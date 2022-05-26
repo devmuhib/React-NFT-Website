@@ -39,7 +39,7 @@
   border: 1px solid rgba(221, 221, 221, 0.274);
   background: transparent;
   color: #fff;
-  padding: 9px 25px;
+  padding: .9rem 1.3rem;
   border-radius: 5px;
   outline: none;
   font-size: 0.8rem;
@@ -69,6 +69,7 @@
   top: -2px;
   right: -2px;
   z-index: 6666666;
+
 }
 
 .close__modal i {
@@ -101,7 +102,7 @@
   }
 
   .input__item input {
-    padding: 5px 20px !important;
+    padding: .7rem 1.5rem !important;
     font-size: 0.7rem;
   }
 }

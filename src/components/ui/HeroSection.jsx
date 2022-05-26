@@ -14,7 +14,7 @@ const HeroSection = () => {
             <div className="hero__content">
               <h2>
                 Discover rare digital art and collect
-                <span>sell extraordinary</span> NFTs
+                <span>extraordinary</span> NFTs
               </h2>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
